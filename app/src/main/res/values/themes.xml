@@ -13,4 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="App.Widget.Button" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/bt_base</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="backgroundTint">@color/purple_200</item>
+    </style>
 </resources>

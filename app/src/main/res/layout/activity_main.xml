@@ -19,6 +19,7 @@
 
         <Button
             android:id="@+id/addNumBt"
+            style="@style/App.Widget.Button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="@string/ADD_NUM_BT"
@@ -29,6 +30,7 @@
 
         <Button
             android:id="@+id/numClearBt"
+            style="@style/App.Widget.Button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="@string/NUM_INIT_BT"
@@ -108,6 +110,7 @@
 
         <Button
             android:id="@+id/genNumBt"
+            style="@style/App.Widget.Button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/GEN_NUM_BT"
