@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lotto</string>
+
+    <string name="ADD_NUM_BT">번호 추가하기</string>
+    <string name="NUM_INIT_BT">초기화</string>
+    <string name="GEN_NUM_BT">자동 생성 시작</string>
+    
+    <string name="TOAST_ALREADY_EXIST_NUM">이미 선택된 숫자</string>
+
+</resources>
